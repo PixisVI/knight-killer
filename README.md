@@ -54,5 +54,8 @@ All the pieces were printed in black PLA except for the edge of the blade printe
 
 [Solo Leveling](https://en.wikipedia.org/wiki/Solo_Leveling) Webtoon :
 
-<img src=images/first_inspiration.png height=512 style="margin-right: 25px">
-<img src=images/base_image.jpg height=256 style="margin-top: 25px; margin-bottom: 128px">
+<div align="center">
+    <img src=images/first_inspiration.png height=512>
+    </p>
+    <img src=images/base_image.jpg height=256>
+</div>
